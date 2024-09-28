@@ -5413,13 +5413,6 @@ figure {
     display: flex
 }
 
-.cta_img-wrapper {
-    position: relative;
-    top: auto;
-    bottom: 0;
-    left: auto
-}
-
 .cta_wrapper {
     grid-column-gap: 8vw;
     grid-row-gap: 8vw;
