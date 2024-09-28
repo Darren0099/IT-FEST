@@ -7251,6 +7251,7 @@ figure {
     border-top-right-radius: 2rem;
     border-bottom-left-radius: 0;
     position: relative
+    height: 600px;
 }
 
 .header-service_content {
@@ -23895,13 +23896,6 @@ figure {
     color: var(--purple);
     cursor: pointer;
     text-decoration: underline
-}
-
-.header-service_container {
-    border-top-left-radius: 2rem;
-    border-top-right-radius: 2rem;
-    border-bottom-left-radius: 0;
-    position: relative
 }
 
 .header-service_content {
@@ -40641,13 +40635,6 @@ figure {
     color: var(--purple);
     cursor: pointer;
     text-decoration: underline
-}
-
-.header-service_container {
-    border-top-left-radius: 2rem;
-    border-top-right-radius: 2rem;
-    border-bottom-left-radius: 0;
-    position: relative
 }
 
 .header-service_content {
