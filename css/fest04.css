@@ -2915,11 +2915,6 @@ figcaption {
   position: fixed;
 }
 
-.navbar_link {
-  padding: 0;
-  transition: color 0.35s;
-  display: inline-block;
-}
 
 .navbar_link:hover {
   color: var(--color-primary);
