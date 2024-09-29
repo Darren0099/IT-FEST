@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-/*! jQuery v3.5.1 | (c) JS Foundation and other contributors | jquery.org/license */
+
 !function(e, t) {
     "use strict";
     "object" == typeof module && "object" == typeof module.exports ? module.exports = e.document ? t(e, !0) : function(e) {
@@ -8601,4 +8600,3 @@ window.addEventListener("DOMContentLoaded", (event) => {
       });
     });
   });
->>>>>>> 53092499db29e432daf255774a5fc37ddac23262
