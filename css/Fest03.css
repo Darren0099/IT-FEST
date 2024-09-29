@@ -7251,6 +7251,7 @@ figure {
     border-top-right-radius: 2rem;
     border-bottom-left-radius: 0;
     position: relative
+    height: 600px;
 }
 
 .header-service_content {
@@ -50194,10 +50195,7 @@ html.w-mod-touch * {
     display: block
 }
 
-.w-inline-block {
-    max-width: 100%;
-    display: inline-block
-}
+
 
 .w-clearfix:before,.w-clearfix:after {
     content: " ";
