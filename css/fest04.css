@@ -97,6 +97,7 @@ img {
   border: 0;
 }
 
+
 hr {
   box-sizing: content-box;
   height: 0;
@@ -199,7 +200,7 @@ th {
 }
 
 @font-face {
-  font-family: fest-icons;
+  font-family: webflow-icons;
   src: url(data:application/x-font-ttf;charset=utf-8;base64,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)
     format("truetype");
   font-weight: 400;
@@ -5291,7 +5292,7 @@ figcaption {
 
 @font-face {
   font-family: "Nunito";
-  src: url("https://uploads-ssl.fest.com/663249e88f740b1eb4ae9a5a/663249e98f740b1eb4ae9afb_Nunito-Medium.ttf")
+  src: url("https://uploads-ssl.webflow.com/663249e88f740b1eb4ae9a5a/663249e98f740b1eb4ae9afb_Nunito-Medium.ttf")
     format("truetype");
   font-weight: 500;
   font-style: normal;
@@ -5300,7 +5301,7 @@ figcaption {
 
 @font-face {
   font-family: "Nunito";
-  src: url("https://uploads-ssl.fest.com/663249e88f740b1eb4ae9a5a/663249e98f740b1eb4ae9afc_Nunito-Regular.ttf")
+  src: url("https://uploads-ssl.webflow.com/663249e88f740b1eb4ae9a5a/663249e98f740b1eb4ae9afc_Nunito-Regular.ttf")
     format("truetype");
   font-weight: 400;
   font-style: normal;
@@ -5309,7 +5310,7 @@ figcaption {
 
 @font-face {
   font-family: "Nunito";
-  src: url("https://uploads-ssl.fest.com/663249e88f740b1eb4ae9a5a/663249e98f740b1eb4ae9afd_Nunito-SemiBold.ttf")
+  src: url("https://uploads-ssl.webflow.com/663249e88f740b1eb4ae9a5a/663249e98f740b1eb4ae9afd_Nunito-SemiBold.ttf")
     format("truetype");
   font-weight: 600;
   font-style: normal;
@@ -5318,7 +5319,7 @@ figcaption {
 
 @font-face {
   font-family: "Lexenddeca";
-  src: url("https://uploads-ssl.fest.com/663249e88f740b1eb4ae9a5a/663249e98f740b1eb4ae9b02_LexendDeca-Bold.ttf")
+  src: url("https://uploads-ssl.webflow.com/663249e88f740b1eb4ae9a5a/663249e98f740b1eb4ae9b02_LexendDeca-Bold.ttf")
     format("truetype");
   font-weight: 700;
   font-style: normal;
@@ -6068,6 +6069,7 @@ figcaption {
   inset: auto auto -1rem 0%;
 }
 
+
 .section-02 {
   padding-block: min(20vh, 2rem);
   width: calc(min(76.5rem, 90%));
@@ -6085,21 +6087,21 @@ figcaption {
     text-decoration: none;
   }
 
-  .container-02 {
+  .container-02{
     margin-top: 5em;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
     gap: 2rem;
 
-    .card-02 {
+    .card-02{
       &:nth-child(1) .box .icon .iconBox {
         background: #d3b19a;
       }
       &:nth-child(2) .box .icon .iconBox {
-        background: #d3b19a;
+        background: #d3b19a;;
       }
       &:nth-child(3) .box .icon .iconBox {
-        background: #d3b19a;
+        background: #d3b19a;;
       }
 
       ul {
@@ -6149,7 +6151,7 @@ figcaption {
       }
     }
 
-    .card-inner-02 {
+    .card-inner-02{
       position: relative;
       width: inherit;
       height: 18.75rem;
